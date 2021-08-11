@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Jhoan Olivo Barrios</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hola Me llamo Jhoan Olivo.\n
+        Me gusta mucho programar, leer sobre la historia universal, jugar videojuegos,
+        escuchar todo tipo de musica y ver videos de cocina.\n
+        Ahora estoy aprendiendo a programar apps con kotlin y android studio.\n
+        Mis juegos favoritos son:\n
+        \t\t\t1.\t Dark souls.\n
+        \t\t\t2.\t Layers of fears.\n
+        \t\t\t3.\t E.V.O.: The Search For Eden (1992).\n
+        \t\t\t4.\t Sekiro.\n
+        \t\t\t5.\t The Witcher.\n
+        Tengo conocimiento programando en:\n
+        \t\t\t1.\t Java. \n
+        \t\t\t2.\t C / C++. \n
+        \t\t\t3.\t JavaScript.  \n
+        \t\t\t4.\t TypeScript  \n
+        \t\t\t5.\t Ruby.  \n
+        \t\t\t6.\t XML.  \n
+        \t\t\t7.\t XSLT.  \n
+        \t\t\t8.\t Kotlin.  \n
+        Espero seguir aprendiendo para enriquecer mi portafolio de habilidades.\n
+        To select your preferred channel for updates:\n
+         \t\t\t1.\t Open Android Studio -> Preferences (on Mac) or File -> Settings (on Windows).\n
+         \t\t\t2.\t Select Appearance and Behavior > System Settings > Updates.\n
+         \t\t\t3.\t Click the dropdown box next to Automatically check updates for and pick one.\n
+    </string>
+    <string name="whats_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
